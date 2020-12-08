@@ -9,13 +9,13 @@ Make sure that you have install sbt in your computer
 **Option 1:** Create from giter8 project on git
 
 ```
-sbt new https://github.com/template-service-finatra-http.g8.git
+sbt new https://github.com/vinhdangphuc/template-http-service-finatra.g8.git
 ```
 
 **Option 2:** Create from giter8 project local mode
 
 ```
-sbt new file://template-service-finatra-http.g8
+sbt new file://template-http-service-finatra.g8
 ```
 
 ## Step #2:

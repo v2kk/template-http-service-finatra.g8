@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Build
+build/
+target/
+project/project
+project/target
+
+.attach*
+logs/
+.travis.yml
